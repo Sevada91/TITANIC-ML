@@ -1,0 +1,23 @@
+# Data (keep datasets local)
+data/raw/
+data/interim/
+data/processed/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
